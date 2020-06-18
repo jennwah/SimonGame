@@ -8,4 +8,8 @@ If you fail to reproduce the sequence, you lose.
 
 Are you ready to beat [the Simon game?](https://jennwah.github.io/SimonGame/)
 
-I build this with HTML5, CSS, JavaScript and Jquery. 
+Technology involved: 
+..* HTML
+..* CSS
+..* Javascript
+..* Jquery
