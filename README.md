@@ -9,7 +9,7 @@ If you fail to reproduce the sequence, you lose.
 Are you ready to beat [the Simon game?](https://jennwah.github.io/SimonGame/)
 
 Technology involved: 
-..* HTML
-..* CSS
-..* Javascript
-..* Jquery
+- HTML
+- CSS
+- Javascript
+- Jquery
